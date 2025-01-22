@@ -1,3 +1,5 @@
+Project Title: Expense Tracker Application
+
 Project Overview: The Expense Tracker Application is a tool designed to help users manage their personal finances by tracking income, expenses, and savings. The application allows users to categorize transactions, view detailed spending reports, and set financial goals, fostering better money management habits.
 
 Key Features:
